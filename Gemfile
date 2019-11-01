@@ -7,7 +7,7 @@ gem "active_storage_validations", "0.7.1"
 gem "bootsnap", "1.4.4", require: false
 gem "bootstrap", "4.3.1"
 gem "config", "1.7.1"
-gem "devise", "4.6.2"
+gem "devise", "4.7.1"
 gem "devise-i18n", "1.8.0"
 gem "figaro", "1.1.1"
 gem "font-awesome-rails", "4.7.0.5"
